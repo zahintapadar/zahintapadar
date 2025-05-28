@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on **Portfolio Website **
 - 👯 I’m looking to collaborate on **any Project 🌟**
 - 🤝 I’m looking to help with **Anything ✨**
-- 🌱 I’m currently learning **Swift 🦅**
-- 💬 Ask me about **React, Python or Firebase 🔥**
+- 🌱 I’m currently learning **Data Science 📊**
+- 💬 Ask me about **React, Python, Firebase or SQL 🔥**
 - 📫 How to reach me **eufalkon@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/Zahin Tapadar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
