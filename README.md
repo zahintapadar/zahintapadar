@@ -187,9 +187,9 @@ graph TD
 [![Email](https://img.shields.io/badge/📧_Email-eufalkon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eufalkon@gmail.com)
 
 ### **🤝 Professional Networks**
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Zahin_Tapadar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Zahin%20Tapadar)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Zahin_Tapadar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahin-tapadar-524640243/)
 [![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-falkon2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falkon2)
-[![Kaggle](https://img.shields.io/badge/📊_Kaggle-Data_Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-profile)
+[![Kaggle](https://img.shields.io/badge/📊_Kaggle-Data_Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zahinahmedtapadar)
 
 </div>
 
