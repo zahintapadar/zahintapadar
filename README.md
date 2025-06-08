@@ -94,7 +94,7 @@ console.log("Ready to build something amazing together!");
 <td width="50%">
 <h3>🎨 <strong>Portfolio Website</strong></h3>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Live_Site-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://zahintapadar.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Live_Site-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://zahintapadar.me/)
 
 **Built with cutting-edge tech:**
 - ⚡ Next.js for blazing performance
