@@ -12,7 +12,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=falkon2&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/falkon2?style=for-the-badge&color=7c3aed&labelColor=1a1b27" alt="Followers"/>
-  [![Portfolio](https://img.shields.io/badge/🌐_Visit_Live_Site-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://zahintapadar.me/)
+  <ing
+src="https://img.shields.io/badge/🌐_Visit_Live_Site-00ff88?style=for-the-badge&logo=vercel&logoColor=black"/>
 </div>
 
 ---
