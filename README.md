@@ -79,7 +79,7 @@ Simple yet powerful website builder made with JavaScript - helping users create 
 ## Contributions & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=falkon2&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahintapadar&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
 ### What I'm Contributing To:
