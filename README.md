@@ -58,22 +58,22 @@ const zahin = {
 
 ## Featured Projects
 
-### 🤖 [BeautifyOllama](https://github.com/falkon2/BeautifyOllama)
+### 🤖 [BeautifyOllama](https://github.com/zahintapadar/BeautifyOllama)
 Open-source web interface that enhances local Ollama AI model interactions with a beautiful, modern design. Built with TypeScript and cutting-edge web technologies.
 
-### 📊 [Reddit Stats Checker](https://github.com/falkon2/redditstatschecker)
+### 📊 [Reddit Stats Checker](https://github.com/zahintapadar/redditstatschecker)
 TypeScript-based tool for analyzing Reddit statistics and user engagement metrics.
 
-### 🎬 [Movies Now](https://github.com/falkon2/Movies-Now)
+### 🎬 [Movies Now](https://github.com/zahintapadar/Movies-Now)
 Swift-based iOS application for discovering and tracking movies with a modern user interface.
 
-### 🌐 [Social Truth](https://github.com/falkon2/Social-Truth)
+### 🌐 [Social Truth](https://github.com/zahintapadar/Social-Truth)
 Svelte-powered web application focused on social media content verification and truth analysis.
 
-### 🎯 [Personify](https://github.com/falkon2/personify)
+### 🎯 [Personify](https://github.com/zahintapadar/personify)
 Python-based personality analysis tool using data science techniques.
 
-### 🧮 [WebGeny](https://github.com/falkon2/WebGeny)
+### 🧮 [WebGeny](https://github.com/zahintapadar/WebGeny)
 Simple yet powerful website builder made with JavaScript - helping users create websites easily.
 
 ## Contributions & Activity
@@ -93,12 +93,12 @@ Simple yet powerful website builder made with JavaScript - helping users create 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=falkon2&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falkon2&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahintapadar2&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahintapadar&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=falkon2&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahintapadar&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### Recent Achievements
@@ -111,7 +111,7 @@ Simple yet powerful website builder made with JavaScript - helping users create 
 ## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zahintapadar.me-00ff88?style=flat&logo=google-chrome&logoColor=black)](https://zahintapadar.me/)
-[![Email](https://img.shields.io/badge/Email-eufalkon@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eufalkon@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eufalkon@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zahintapadar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahin_Tapadar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahin-tapadar-524640243/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Data_Science-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/zahinahmedtapadar)
 
