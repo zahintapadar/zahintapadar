@@ -34,12 +34,9 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahintapadar&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
   
-  <img height="180em" src="https://streak-stats.demolab.com?user=zahintapadar&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahintapadar&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-</div>
 
 ---
 
