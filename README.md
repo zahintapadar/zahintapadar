@@ -40,7 +40,7 @@
 
 ## 📫 Connect with Me
 
-[Portfolio](https://zahintapadar.me/) • [LinkedIn](https://www.linkedin.com/in/zahin-tapadar-524640243/) • [Kaggle](https://www.kaggle.com/zahinahmedtapadar) • [Email](mailto:zahintapadar@gmail.com)
+[Portfolio](https://zahin-tapadar.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/zahin-tapadar-524640243/) • [Kaggle](https://www.kaggle.com/zahinahmedtapadar) • [Email](mailto:zahintapadar@gmail.com)
 
 ---
 
